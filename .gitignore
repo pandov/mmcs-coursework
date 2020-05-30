@@ -1,4 +1,9 @@
 0ld/
+dataset/
+tests/
+tests - Copy/
+logs/
+trains/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
